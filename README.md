@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist simonmesmith/yii2-googleadsense "*"
+php composer.phar require --prefer-dist jp3cki/yii2-googleadsense "*"
 ```
 
 or add
 
 ```
-"simonmesmith/yii2-googleadsense": "*"
+"jp3cki/yii2-googleadsense": "*"
 ```
 
 to the require section of your `composer.json` file.
